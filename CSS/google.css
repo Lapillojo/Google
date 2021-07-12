@@ -1,0 +1,52 @@
+.list-header{
+    list-style: none;
+    text-align: right;
+    
+}
+
+.list-header li{
+    display: inline-block; 
+    margin: 0px 8px;
+}
+
+
+*{
+    background-color: rgb(44, 43, 43);
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+main{
+    text-align: center
+}
+
+img{
+    width: 37px;
+    
+}
+
+.Perú{
+    color: grey;
+    background-color: black;
+    
+}
+.Buscador{
+    border-radius: 15px;
+    border: 3px solid red;
+    width: 50%;
+    margin: auto;
+}
+
+footer{
+    position: fixed;
+    bottom: 0px;
+}
+
+.Pie-página li{
+    list-style: none;
+    display: inline-block;
+}
+
